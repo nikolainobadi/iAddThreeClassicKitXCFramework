@@ -1,0 +1,4 @@
+framework module iAddThreeClassicKit {
+  header "iAddThreeClassicKit-Swift.h"
+  requires objc
+}

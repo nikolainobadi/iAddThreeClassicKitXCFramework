@@ -1,0 +1,144 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-module-flags: -target arm64-apple-ios17.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name iAddThreeClassicKit
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import DeveloperToolsSupport
+import Foundation
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+extension SwiftUI.View {
+  public func withRoundedBorder() -> some SwiftUI.View
+  
+}
+@_Concurrency.MainActor(unsafe) public struct ClassicGameCoordinatorView : SwiftUI.View {
+  @_Concurrency.MainActor(unsafe) public init(mode: iAddThreeClassicKit.ClassicGameMode, highScore: Swift.Int, endGame: @escaping () -> Swift.Void, saveResults: @escaping (iAddThreeClassicKit.ClassicLevelResults) -> Swift.Void)
+  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s19iAddThreeClassicKit0C19GameCoordinatorViewV4bodyQrvp", 0) __
+}
+public let CLASSIC_KIT_TESTING: Swift.String
+public enum TestDataKey : Swift.String {
+  case level, score, perfectStreak, resultDisplayDelay
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public struct ChalkNavBackButton : SwiftUI.View {
+  public init(text: Swift.String, action: @escaping () -> Swift.Void)
+  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s19iAddThreeClassicKit18ChalkNavBackButtonV4bodyQrvp", 0) __
+}
+extension SwiftUI.View {
+  public func onChalkboard(_ chalkboard: iAddThreeClassicKit.ChalkboardType = .green, alignment: SwiftUI.Alignment = .center) -> some SwiftUI.View
+  
+}
+public enum ChalkboardType {
+  case green, black, red, orange
+  public static func == (a: iAddThreeClassicKit.ChalkboardType, b: iAddThreeClassicKit.ChalkboardType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+extension SwiftUI.View {
+  public func withTextBackground(opacity: CoreFoundation.CGFloat = 0.5) -> some SwiftUI.View
+  
+}
+public struct ChalkButtonStyle : SwiftUI.ButtonStyle {
+  public init(style: SwiftUI.Font.TextStyle = .title3, textColor: SwiftUI.Color = .white, frameWidth: CoreFoundation.CGFloat? = nil)
+  public func makeBody(configuration: iAddThreeClassicKit.ChalkButtonStyle.Configuration) -> some SwiftUI.View
+  
+  public typealias Body = @_opaqueReturnTypeOf("$s19iAddThreeClassicKit16ChalkButtonStyleV8makeBody13configurationQr7SwiftUI0fG13ConfigurationV_tF", 0) __
+}
+public struct ChalkNavDismissButton : SwiftUI.View {
+  public init(action: @escaping () -> Swift.Void)
+  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s19iAddThreeClassicKit21ChalkNavDismissButtonV4bodyQrvp", 0) __
+}
+extension SwiftUI.View {
+  public func setChalkFont(_ style: SwiftUI.Font.TextStyle, isSmooth: Swift.Bool = false, textColor: SwiftUI.Color = .white, autoSize: Swift.Bool = false) -> some SwiftUI.View
+  
+}
+public enum ClassicGameMode : Swift.String, Swift.CaseIterable, Swift.Identifiable {
+  case add, subtract, hybrid
+  public var id: Swift.String {
+    get
+  }
+  public init?(rawValue: Swift.String)
+  public typealias AllCases = [iAddThreeClassicKit.ClassicGameMode]
+  public typealias ID = Swift.String
+  public typealias RawValue = Swift.String
+  public static var allCases: [iAddThreeClassicKit.ClassicGameMode] {
+    get
+  }
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public struct ClassicLevelResults : Swift.Equatable {
+  public let currentScore: Swift.Int
+  public let currentLevel: Swift.Int
+  public let perfectStreakCount: Swift.Int
+  public let numberList: [iAddThreeClassicKit.NumberItemData]
+  public let completionTime: Foundation.TimeInterval?
+  public init(currentScore: Swift.Int = 0, currentLevel: Swift.Int = 1, perfectStreakCount: Swift.Int = 0, numberList: [iAddThreeClassicKit.NumberItemData] = [], completionTime: Foundation.TimeInterval? = nil)
+  public static func == (a: iAddThreeClassicKit.ClassicLevelResults, b: iAddThreeClassicKit.ClassicLevelResults) -> Swift.Bool
+}
+extension iAddThreeClassicKit.ClassicLevelResults {
+  public var scoreAfterAddingPoints: Swift.Int {
+    get
+  }
+  public var correctAnswerCount: Swift.Int {
+    get
+  }
+  public var bonusPoints: Swift.Int? {
+    get
+  }
+}
+public struct NumberItemData : Swift.Identifiable, Swift.Equatable {
+  public let id: Foundation.UUID
+  public var userAnswer: Swift.Int?
+  public init(number: Swift.Int? = nil, isAdding: Swift.Bool = true, userAnswer: Swift.Int? = nil)
+  public static func == (a: iAddThreeClassicKit.NumberItemData, b: iAddThreeClassicKit.NumberItemData) -> Swift.Bool
+  public typealias ID = Foundation.UUID
+}
+extension iAddThreeClassicKit.NumberItemData {
+  public var isCorrect: Swift.Bool {
+    get
+  }
+}
+public enum OperationValue : Swift.Int, Swift.CaseIterable {
+  case three
+  case minusThree
+  public init?(rawValue: Swift.Int)
+  public typealias AllCases = [iAddThreeClassicKit.OperationValue]
+  public typealias RawValue = Swift.Int
+  public static var allCases: [iAddThreeClassicKit.OperationValue] {
+    get
+  }
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+extension iAddThreeClassicKit.TestDataKey : Swift.Equatable {}
+extension iAddThreeClassicKit.TestDataKey : Swift.Hashable {}
+extension iAddThreeClassicKit.TestDataKey : Swift.RawRepresentable {}
+extension iAddThreeClassicKit.ChalkboardType : Swift.Equatable {}
+extension iAddThreeClassicKit.ChalkboardType : Swift.Hashable {}
+extension iAddThreeClassicKit.ClassicGameMode : Swift.Equatable {}
+extension iAddThreeClassicKit.ClassicGameMode : Swift.Hashable {}
+extension iAddThreeClassicKit.ClassicGameMode : Swift.RawRepresentable {}
+extension iAddThreeClassicKit.OperationValue : Swift.Equatable {}
+extension iAddThreeClassicKit.OperationValue : Swift.Hashable {}
+extension iAddThreeClassicKit.OperationValue : Swift.RawRepresentable {}
