@@ -49,6 +49,8 @@ public enum ChalkboardType {
     get
   }
 }
+#Preview()
+#Preview()
 extension SwiftUI.View {
   public func withTextBackground(opacity: CoreFoundation.CGFloat = 0.5) -> some SwiftUI.View
   

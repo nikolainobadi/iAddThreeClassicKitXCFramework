@@ -1184,8 +1184,28 @@
       },
       {
         "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "iAddThreeClassicKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iAddThreeClassicKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
         "declKind": "Import",
         "moduleName": "iAddThreeClassicKit",
         "declAttributes": [
@@ -3888,2499 +3908,2674 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/RoundedBorderViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/RoundedBorderViewModifier.swift",
       "kind": "IntegerLiteral",
       "offset": 297,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/RoundedBorderViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/RoundedBorderViewModifier.swift",
       "kind": "FloatLiteral",
       "offset": 380,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/RoundedBorderViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/RoundedBorderViewModifier.swift",
       "kind": "IntegerLiteral",
       "offset": 465,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/SharedViews\/ClassicGameCoordinatorView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/SharedViews\/ClassicGameCoordinatorView.swift",
       "kind": "IntegerLiteral",
       "offset": 1543,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/SharedViews\/ClassicGameCoordinatorView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/SharedViews\/ClassicGameCoordinatorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3533,
+      "offset": 3700,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Testing\/ProcessInfoConstant.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Testing\/ProcessInfoConstant.swift",
       "kind": "StringLiteral",
       "offset": 139,
       "length": 21,
       "value": "\"CLASSIC_KIT_TESTING\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/GameModeMenuView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/GameModeMenuView.swift",
       "kind": "IntegerLiteral",
       "offset": 293,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/GameModeMenuView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/GameModeMenuView.swift",
       "kind": "StringLiteral",
       "offset": 297,
       "length": 23,
       "value": "\"Level \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/GameModeMenuView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/GameModeMenuView.swift",
       "kind": "StringLiteral",
       "offset": 319,
       "length": 5,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/GameModeMenuView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/GameModeMenuView.swift",
       "kind": "StringLiteral",
       "offset": 323,
       "length": 12,
       "value": "\"Start Game\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/GameModeMenuView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/GameModeMenuView.swift",
       "kind": "IntegerLiteral",
       "offset": 414,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/GameModeMenuView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/GameModeMenuView.swift",
       "kind": "IntegerLiteral",
       "offset": 559,
       "length": 2,
       "value": "75"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/GameModeMenuView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/GameModeMenuView.swift",
       "kind": "StringLiteral",
       "offset": 584,
       "length": 13,
       "value": "\"How to Play\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/GameModeMenuView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/GameModeMenuView.swift",
       "kind": "IntegerLiteral",
       "offset": 720,
       "length": 2,
       "value": "45"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/SharedViews\/ChalkNavBackButton.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/SharedViews\/ChalkNavBackButton.swift",
       "kind": "StringLiteral",
       "offset": 794,
       "length": 14,
       "value": "\"chevron.left\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkboardViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkboardViewModifier.swift",
       "kind": "StringLiteral",
       "offset": 481,
       "length": 32,
       "value": "\"com.nobadi.iAddThreeClassicKit\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkboardViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkboardViewModifier.swift",
       "kind": "StringLiteral",
       "offset": 1529,
       "length": 12,
       "value": "\"greenChalk\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkboardViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkboardViewModifier.swift",
       "kind": "StringLiteral",
       "offset": 1582,
       "length": 12,
       "value": "\"blackChalk\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkboardViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkboardViewModifier.swift",
       "kind": "StringLiteral",
       "offset": 1633,
       "length": 10,
       "value": "\"redChalk\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkboardViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkboardViewModifier.swift",
       "kind": "StringLiteral",
       "offset": 1685,
       "length": 13,
       "value": "\"orangeChalk\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/FinishedGameView.swift",
+      "kind": "StringLiteral",
+      "offset": 271,
+      "length": 18,
+      "value": "\"Congratulations!\""
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/FinishedGameView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 345,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/FinishedGameView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 401,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/FinishedGameView.swift",
+      "kind": "StringLiteral",
+      "offset": 462,
+      "length": 37,
+      "value": "\"You've conquered \""
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/FinishedGameView.swift",
+      "kind": "StringLiteral",
+      "offset": 492,
+      "length": 4,
+      "value": "\" mode.\""
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/FinishedGameView.swift",
+      "kind": "StringLiteral",
+      "offset": 680,
+      "length": 106,
+      "value": "\"More fun games from iAddThree are in development. Look out for the next generation of mental training in\""
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/FinishedGameView.swift",
+      "kind": "StringLiteral",
+      "offset": 809,
+      "length": 13,
+      "value": "\"iAddThree+3\""
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/FinishedGameView.swift",
+      "kind": "StringLiteral",
+      "offset": 957,
+      "length": 40,
+      "value": "\"Available on the AppStore in late 2024\""
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/FinishedGameView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1166,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/FinishedGameView.swift",
+      "kind": "StringLiteral",
+      "offset": 1238,
+      "length": 11,
+      "value": "\"Main Menu\""
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/FinishedGameView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1379,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/FinishedGameView.swift",
+      "kind": "StringLiteral",
+      "offset": 1455,
+      "length": 5,
+      "value": "\"Add\""
+    },
+    {
+      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_C0EC54C1898BC12AA6A884971A603763Ll7PreviewfMf_.swift",
+      "kind": "StringLiteral",
+      "offset": 245,
+      "length": 44,
+      "value": "\"iAddThreeClassicKit\/FinishedGameView.swift\""
+    },
+    {
+      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_C0EC54C1898BC12AA6A884971A603763Ll7PreviewfMf_.swift",
+      "kind": "IntegerLiteral",
+      "offset": 317,
+      "length": 2,
+      "value": "52"
+    },
+    {
+      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_C0EC54C1898BC12AA6A884971A603763Ll7PreviewfMf_.swift",
+      "kind": "IntegerLiteral",
+      "offset": 349,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_C0EC54C1898BC12AA6A884971A603763Ll7PreviewfMf_.swift",
+      "kind": "StringLiteral",
+      "offset": 504,
+      "length": 5,
+      "value": "\"Add\""
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 168,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 374,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 793,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
       "kind": "StringLiteral",
       "offset": 815,
       "length": 13,
       "value": "\"How to Play\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 857,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
       "kind": "BooleanLiteral",
       "offset": 908,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
       "kind": "FloatLiteral",
       "offset": 994,
       "length": 4,
       "value": "0.15"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 1553,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 1566,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 1627,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 1640,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsCoordinatorView.swift",
+      "kind": "StringLiteral",
+      "offset": 613,
+      "length": 5,
+      "value": "\"Add\""
+    },
+    {
+      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_A3F80E53A5662F4DF7521E4390C9CAD3Ll7PreviewfMf0_.swift",
+      "kind": "StringLiteral",
+      "offset": 246,
+      "length": 55,
+      "value": "\"iAddThreeClassicKit\/LevelResultsCoordinatorView.swift\""
+    },
+    {
+      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_A3F80E53A5662F4DF7521E4390C9CAD3Ll7PreviewfMf0_.swift",
+      "kind": "IntegerLiteral",
+      "offset": 329,
+      "length": 2,
+      "value": "27"
+    },
+    {
+      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_A3F80E53A5662F4DF7521E4390C9CAD3Ll7PreviewfMf0_.swift",
+      "kind": "IntegerLiteral",
+      "offset": 361,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_A3F80E53A5662F4DF7521E4390C9CAD3Ll7PreviewfMf0_.swift",
+      "kind": "StringLiteral",
+      "offset": 527,
+      "length": 5,
+      "value": "\"Add\""
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
       "kind": "StringLiteral",
       "offset": 390,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
       "kind": "StringLiteral",
       "offset": 477,
       "length": 10,
       "value": "\"Subtract\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
       "kind": "IntegerLiteral",
       "offset": 565,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
       "kind": "IntegerLiteral",
       "offset": 614,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
       "kind": "StringLiteral",
       "offset": 846,
       "length": 17,
       "value": "\"operation title\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
       "kind": "IntegerLiteral",
       "offset": 1421,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
       "kind": "FloatLiteral",
       "offset": 1549,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
       "kind": "IntegerLiteral",
       "offset": 1555,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
       "kind": "IntegerLiteral",
       "offset": 1740,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
       "kind": "IntegerLiteral",
       "offset": 2176,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
       "kind": "FloatLiteral",
       "offset": 2220,
       "length": 3,
       "value": "0.6"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
       "kind": "IntegerLiteral",
       "offset": 2325,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/TextBackgroundViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/TextBackgroundViewModifier.swift",
       "kind": "IntegerLiteral",
       "offset": 341,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/TextBackgroundViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/TextBackgroundViewModifier.swift",
       "kind": "FloatLiteral",
       "offset": 679,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "IntegerLiteral",
       "offset": 160,
       "length": 1,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "IntegerLiteral",
       "offset": 163,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "IntegerLiteral",
       "offset": 166,
       "length": 1,
       "value": "9"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "IntegerLiteral",
       "offset": 169,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "IntegerLiteral",
       "offset": 172,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "IntegerLiteral",
       "offset": 175,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "IntegerLiteral",
       "offset": 178,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "IntegerLiteral",
       "offset": 181,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "IntegerLiteral",
       "offset": 184,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "IntegerLiteral",
       "offset": 192,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "IntegerLiteral",
       "offset": 229,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "IntegerLiteral",
       "offset": 600,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "StringLiteral",
       "offset": 1015,
       "length": 11,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "StringLiteral",
       "offset": 1025,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "IntegerLiteral",
       "offset": 1123,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "IntegerLiteral",
       "offset": 1180,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "IntegerLiteral",
       "offset": 1212,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "IntegerLiteral",
       "offset": 1320,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberPadView.swift",
       "kind": "StringLiteral",
       "offset": 1422,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkButtonStyle.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkButtonStyle.swift",
       "kind": "IntegerLiteral",
       "offset": 1058,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkButtonStyle.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkButtonStyle.swift",
       "kind": "BooleanLiteral",
       "offset": 1160,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/SharedViews\/ChalkNavDismissButton.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/SharedViews\/ChalkNavDismissButton.swift",
       "kind": "StringLiteral",
       "offset": 589,
       "length": 7,
       "value": "\"xmark\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkFontViewModifier.swift",
       "kind": "StringLiteral",
       "offset": 335,
       "length": 23,
       "value": "\"Chalkboard SE Regular\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkFontViewModifier.swift",
       "kind": "StringLiteral",
       "offset": 361,
       "length": 13,
       "value": "\"Chalkduster\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkFontViewModifier.swift",
       "kind": "BooleanLiteral",
       "offset": 1133,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/ViewModifiers\/ChalkFontViewModifier.swift",
       "kind": "BooleanLiteral",
       "offset": 1184,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 186,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 710,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 993,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1762,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 2148,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
       "kind": "StringLiteral",
       "offset": 2182,
       "length": 11,
       "value": "\"Times up!\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 2409,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
       "kind": "StringLiteral",
       "offset": 2431,
       "length": 10,
       "value": "\"Nice Try\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 2455,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
       "kind": "StringLiteral",
       "offset": 2477,
       "length": 11,
       "value": "\"Good Job!\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 2502,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
       "kind": "StringLiteral",
       "offset": 2524,
       "length": 12,
       "value": "\"Great Job!\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 2550,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
       "kind": "StringLiteral",
       "offset": 2572,
       "length": 10,
       "value": "\"Perfect!\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/GamePlayViewModel.swift",
       "kind": "StringLiteral",
       "offset": 2619,
       "length": 11,
       "value": "\"Not Quite\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicGameMode.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicGameMode.swift",
       "kind": "StringLiteral",
       "offset": 549,
       "length": 47,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicGameMode.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicGameMode.swift",
       "kind": "StringLiteral",
       "offset": 561,
       "length": 1,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicGameMode.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicGameMode.swift",
       "kind": "StringLiteral",
       "offset": 582,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicGameMode.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicGameMode.swift",
       "kind": "StringLiteral",
       "offset": 587,
       "length": 7,
       "value": "\"Three\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicGameMode.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicGameMode.swift",
       "kind": "StringLiteral",
       "offset": 595,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Timer\/UI\/TimerView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Timer\/UI\/TimerView.swift",
       "kind": "FloatLiteral",
       "offset": 282,
       "length": 4,
       "value": "0.05"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Timer\/UI\/TimerView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Timer\/UI\/TimerView.swift",
       "kind": "IntegerLiteral",
       "offset": 476,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Timer\/UI\/TimerView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Timer\/UI\/TimerView.swift",
       "kind": "FloatLiteral",
       "offset": 514,
       "length": 4,
       "value": "0.05"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Timer\/UI\/TimerView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Timer\/UI\/TimerView.swift",
       "kind": "IntegerLiteral",
       "offset": 569,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Timer\/UI\/TimerView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Timer\/UI\/TimerView.swift",
       "kind": "IntegerLiteral",
       "offset": 865,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Timer\/UI\/TimerView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Timer\/UI\/TimerView.swift",
       "kind": "IntegerLiteral",
       "offset": 919,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Timer\/UI\/TimerView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Timer\/UI\/TimerView.swift",
       "kind": "FloatLiteral",
       "offset": 1552,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Timer\/UI\/TimerView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Timer\/UI\/TimerView.swift",
       "kind": "FloatLiteral",
       "offset": 1967,
       "length": 3,
       "value": "0.6"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Timer\/UI\/TimerView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Timer\/UI\/TimerView.swift",
       "kind": "FloatLiteral",
       "offset": 2028,
       "length": 4,
       "value": "0.25"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
       "kind": "FloatLiteral",
       "offset": 412,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
       "kind": "IntegerLiteral",
       "offset": 418,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
       "kind": "BooleanLiteral",
       "offset": 530,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
       "kind": "BooleanLiteral",
       "offset": 583,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
       "kind": "BooleanLiteral",
       "offset": 844,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
       "kind": "IntegerLiteral",
       "offset": 1335,
       "length": 1,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
       "kind": "IntegerLiteral",
       "offset": 1395,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
       "kind": "FloatLiteral",
       "offset": 1456,
       "length": 3,
       "value": "4.8"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
       "kind": "IntegerLiteral",
       "offset": 1519,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
       "kind": "FloatLiteral",
       "offset": 1582,
       "length": 3,
       "value": "3.5"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
       "kind": "IntegerLiteral",
       "offset": 1650,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
       "kind": "FloatLiteral",
       "offset": 1709,
       "length": 3,
       "value": "2.5"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
       "kind": "IntegerLiteral",
       "offset": 1773,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
       "kind": "FloatLiteral",
       "offset": 1836,
       "length": 3,
       "value": "1.8"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/CustomFontViewModifier.swift",
       "kind": "IntegerLiteral",
       "offset": 1877,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "IntegerLiteral",
       "offset": 772,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "IntegerLiteral",
       "offset": 795,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "IntegerLiteral",
       "offset": 824,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "Array",
       "offset": 858,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "IntegerLiteral",
       "offset": 1298,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "IntegerLiteral",
       "offset": 1609,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "IntegerLiteral",
       "offset": 1613,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "IntegerLiteral",
       "offset": 1652,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "IntegerLiteral",
       "offset": 1674,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "IntegerLiteral",
       "offset": 1689,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "IntegerLiteral",
       "offset": 1693,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "IntegerLiteral",
       "offset": 1715,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "IntegerLiteral",
       "offset": 1753,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "IntegerLiteral",
       "offset": 1910,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "StringLiteral",
       "offset": 1982,
       "length": 31,
       "value": "\"Level \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "StringLiteral",
       "offset": 2004,
       "length": 7,
       "value": "\" Results\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "IntegerLiteral",
       "offset": 2137,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "BooleanLiteral",
       "offset": 2195,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/ClassicLevelResults.swift",
       "kind": "IntegerLiteral",
       "offset": 2271,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Extensions\/View+Extensions.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Extensions\/View+Extensions.swift",
       "kind": "IntegerLiteral",
       "offset": 334,
       "length": 13,
       "value": "1000000000"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Extensions\/View+Extensions.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Extensions\/View+Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1142,
       "length": 4,
       "value": "0.01"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Extensions\/View+Extensions.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Extensions\/View+Extensions.swift",
       "kind": "FloatLiteral",
       "offset": 1386,
       "length": 4,
       "value": "0.01"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/NumberItem.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/NumberItem.swift",
       "kind": "IntegerLiteral",
       "offset": 502,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/NumberItem.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/NumberItem.swift",
       "kind": "IntegerLiteral",
       "offset": 506,
       "length": 1,
       "value": "9"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/NumberItem.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/NumberItem.swift",
       "kind": "IntegerLiteral",
       "offset": 768,
       "length": 1,
       "value": "9"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/NumberItem.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/NumberItem.swift",
       "kind": "IntegerLiteral",
       "offset": 782,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/NumberItem.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/NumberItem.swift",
       "kind": "IntegerLiteral",
       "offset": 810,
       "length": 1,
       "value": "9"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/NumberItem.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/NumberItem.swift",
       "kind": "IntegerLiteral",
       "offset": 840,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/NumberItem.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/NumberItem.swift",
       "kind": "IntegerLiteral",
       "offset": 874,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/NumberItem.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/NumberItem.swift",
       "kind": "IntegerLiteral",
       "offset": 904,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
       "kind": "FloatLiteral",
       "offset": 650,
       "length": 3,
       "value": "0.6"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
       "kind": "IntegerLiteral",
       "offset": 697,
       "length": 2,
       "value": "50"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
       "kind": "IntegerLiteral",
       "offset": 726,
       "length": 2,
       "value": "50"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
       "kind": "StringLiteral",
       "offset": 792,
       "length": 16,
       "value": "\"+ Streak Bonus\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
       "kind": "IntegerLiteral",
       "offset": 1026,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
       "kind": "IntegerLiteral",
       "offset": 1081,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
       "kind": "FloatLiteral",
       "offset": 1185,
       "length": 3,
       "value": "0.8"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
       "kind": "StringLiteral",
       "offset": 1327,
       "length": 11,
       "value": "\"Game Over\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
       "kind": "IntegerLiteral",
       "offset": 1385,
       "length": 2,
       "value": "95"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
       "kind": "IntegerLiteral",
       "offset": 1481,
       "length": 1,
       "value": "9"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
       "kind": "IntegerLiteral",
       "offset": 1539,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
       "kind": "IntegerLiteral",
       "offset": 1588,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/ResultSection.swift",
       "kind": "IntegerLiteral",
       "offset": 1639,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
       "kind": "IntegerLiteral",
       "offset": 288,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
       "kind": "StringLiteral",
       "offset": 342,
       "length": 4,
       "value": "\"  \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
       "kind": "StringLiteral",
       "offset": 349,
       "length": 6,
       "value": "\"Menu\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
       "kind": "FloatLiteral",
       "offset": 499,
       "length": 4,
       "value": "0.25"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
       "kind": "IntegerLiteral",
       "offset": 588,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
       "kind": "IntegerLiteral",
       "offset": 628,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
       "kind": "IntegerLiteral",
       "offset": 632,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
       "kind": "BooleanLiteral",
       "offset": 689,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
       "kind": "IntegerLiteral",
       "offset": 752,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
       "kind": "IntegerLiteral",
       "offset": 757,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
       "kind": "IntegerLiteral",
       "offset": 825,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/UI\/ClassicNavBarView.swift",
       "kind": "IntegerLiteral",
       "offset": 830,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionDetailView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionDetailView.swift",
       "kind": "IntegerLiteral",
       "offset": 541,
       "length": 2,
       "value": "98"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionDetailView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionDetailView.swift",
       "kind": "BooleanLiteral",
       "offset": 886,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionDetailView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionDetailView.swift",
       "kind": "BooleanLiteral",
       "offset": 902,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionDetailView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionDetailView.swift",
       "kind": "IntegerLiteral",
       "offset": 1185,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionDetailView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionDetailView.swift",
       "kind": "IntegerLiteral",
       "offset": 1353,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionDetailView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionDetailView.swift",
       "kind": "BooleanLiteral",
       "offset": 1913,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
       "kind": "BooleanLiteral",
       "offset": 720,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
       "kind": "StringLiteral",
       "offset": 1324,
       "length": 16,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
       "kind": "StringLiteral",
       "offset": 1339,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
       "kind": "StringLiteral",
       "offset": 1468,
       "length": 15,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
       "kind": "StringLiteral",
       "offset": 1482,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
       "kind": "StringLiteral",
       "offset": 1688,
       "length": 3,
       "value": "\"+\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
       "kind": "StringLiteral",
       "offset": 1694,
       "length": 3,
       "value": "\"-\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
       "kind": "StringLiteral",
       "offset": 1767,
       "length": 5,
       "value": "\"Add\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
       "kind": "StringLiteral",
       "offset": 1775,
       "length": 10,
       "value": "\"Subtract\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
       "kind": "IntegerLiteral",
       "offset": 1909,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
       "kind": "IntegerLiteral",
       "offset": 1912,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
       "kind": "IntegerLiteral",
       "offset": 1915,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Public\/Model\/NumberItemData.swift",
       "kind": "IntegerLiteral",
       "offset": 1918,
       "length": 1,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
       "kind": "BooleanLiteral",
       "offset": 203,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
       "kind": "BooleanLiteral",
       "offset": 249,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
       "kind": "BooleanLiteral",
       "offset": 299,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
       "kind": "IntegerLiteral",
       "offset": 1085,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
       "kind": "IntegerLiteral",
       "offset": 1222,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
       "kind": "FloatLiteral",
       "offset": 1515,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
       "kind": "BooleanLiteral",
       "offset": 1601,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
       "kind": "IntegerLiteral",
       "offset": 1817,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
       "kind": "BooleanLiteral",
       "offset": 1858,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
       "kind": "FloatLiteral",
       "offset": 1993,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
       "kind": "BooleanLiteral",
       "offset": 2049,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsView.swift",
       "kind": "BooleanLiteral",
       "offset": 2229,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/AnimatableNumberModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/AnimatableNumberModifier.swift",
       "kind": "StringLiteral",
       "offset": 410,
       "length": 16,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/AnimatableNumberModifier.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/ViewModifiers\/AnimatableNumberModifier.swift",
       "kind": "StringLiteral",
       "offset": 425,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
       "kind": "IntegerLiteral",
       "offset": 162,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
       "kind": "IntegerLiteral",
       "offset": 185,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
       "kind": "IntegerLiteral",
       "offset": 209,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
       "kind": "BooleanLiteral",
       "offset": 276,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
       "kind": "StringLiteral",
       "offset": 771,
       "length": 24,
       "value": "\"Level \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
       "kind": "StringLiteral",
       "offset": 786,
       "length": 7,
       "value": "\" Results\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
       "kind": "StringLiteral",
       "offset": 873,
       "length": 20,
       "value": "\"Level \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
       "kind": "IntegerLiteral",
       "offset": 890,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
       "kind": "StringLiteral",
       "offset": 892,
       "length": 5,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
       "kind": "StringLiteral",
       "offset": 896,
       "length": 12,
       "value": "\"Try Again?\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
       "kind": "IntegerLiteral",
       "offset": 987,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
       "kind": "IntegerLiteral",
       "offset": 991,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Model\/PageDirection.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/Model\/DisplayableResults.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1083,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Model\/PageDirection.swift",
       "kind": "StringLiteral",
       "offset": 248,
       "length": 6,
       "value": "\"Next\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Model\/PageDirection.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Model\/PageDirection.swift",
       "kind": "StringLiteral",
       "offset": 298,
       "length": 10,
       "value": "\"Previous\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/OperationValue.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/OperationValue.swift",
       "kind": "IntegerLiteral",
       "offset": 184,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/OperationValue.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/OperationValue.swift",
       "kind": "IntegerLiteral",
       "offset": 208,
       "length": 2,
       "value": "-3"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/OperationValue.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/OperationValue.swift",
       "kind": "IntegerLiteral",
       "offset": 184,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/OperationValue.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/OperationValue.swift",
       "kind": "IntegerLiteral",
       "offset": 208,
       "length": 1,
       "value": "-3"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/OperationValue.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/OperationValue.swift",
       "kind": "IntegerLiteral",
       "offset": 184,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/OperationValue.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Model\/OperationValue.swift",
       "kind": "IntegerLiteral",
       "offset": 208,
       "length": 1,
       "value": "-3"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 252,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 379,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 446,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "Array",
       "offset": 452,
       "length": 10,
       "value": "[nil, nil]"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 562,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 838,
       "length": 134,
       "value": "\"When you answer correctly, the correct number will appear in green.\n\nHowever, if you are incorrect, the number will appear in red.\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 1079,
       "length": 65,
       "value": "\"Four random numbers will appear at the beginning of each round.\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 1269,
       "length": 142,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 1287,
       "length": 5,
       "value": "\"Add\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 1295,
       "length": 10,
       "value": "\"Subtract\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 1306,
       "length": 3,
       "value": "\" '3' \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 1328,
       "length": 4,
       "value": "\"to\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 1335,
       "length": 6,
       "value": "\"from\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 1342,
       "length": 4,
       "value": "\" each number, starting on the left and making your way to the right.\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 1461,
       "length": 70,
       "value": "\"Add '3' to numbers with '+', and subtract '3' from numbers with '-'.\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 1557,
       "length": 66,
       "value": "\"\n(The operation for the current number appears below the list).\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 1666,
       "length": 34,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 1676,
       "length": 1,
       "value": "\"\n\n\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 1699,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 1830,
       "length": 183,
       "value": "\"Remember the number lines from the other modes to handle double digit or negative answers.\n\nAdd:\n\n7 -> 8 -> 9 -> 0 -> 1 -> 2 -> 3\n\nSubtract:\n\n7 <- 8 <- 9 <- 0 <- 1 <- 2 <- 3\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2074,
       "length": 15,
       "value": "\"double digits\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2092,
       "length": 10,
       "value": "\"negative\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2147,
       "length": 18,
       "value": "\"greater than '9'\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2168,
       "length": 15,
       "value": "\"less than '0'\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2224,
       "length": 33,
       "value": "\"7 -> 8 -> 9 -> 0 -> 1 -> 2 -> 3\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2260,
       "length": 33,
       "value": "\"7 <- 8 <- 9 <- 0 <- 1 <- 2 <- 3\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2332,
       "length": 5,
       "value": "\"8+3\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2340,
       "length": 5,
       "value": "\"2-3\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2390,
       "length": 3,
       "value": "\"8\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2396,
       "length": 3,
       "value": "\"2\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2439,
       "length": 7,
       "value": "\"right\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2449,
       "length": 6,
       "value": "\"left\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2499,
       "length": 3,
       "value": "\"1\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2505,
       "length": 3,
       "value": "\"9\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2533,
       "length": 441,
       "value": "\"Remember, answers CANNOT be \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2591,
       "length": 1,
       "value": "\". If the correct answer should be \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2641,
       "length": 1,
       "value": "\", you must wrap around the 0.\n\nUse the following number line as a guide to get the answer for \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2770,
       "length": 1,
       "value": "\".\n\n\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2810,
       "length": 8,
       "value": "\"\n\nStarting at \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2865,
       "length": 1,
       "value": "\", simply move 3 spaces to the \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2907,
       "length": 1,
       "value": "\", which makes the correct answer \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 2956,
       "length": 1,
       "value": "\".\n\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 3262,
       "length": 344,
       "value": "\"Remember, answers CANNOT be \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 3305,
       "length": 1,
       "value": "\". If the correct answer should be \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 3355,
       "length": 1,
       "value": "\", you must wrap around the 0.\n\nUse the following number line as a guide to get the answer for \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 3462,
       "length": 1,
       "value": "\".\n\n\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 3480,
       "length": 1,
       "value": "\"\n\nStarting at \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 3513,
       "length": 1,
       "value": "\", simply move 3 spaces to the \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 3555,
       "length": 1,
       "value": "\", which makes the correct answer \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 3604,
       "length": 1,
       "value": "\".\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 3791,
       "length": 15,
       "value": "\"double digits\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 3809,
       "length": 10,
       "value": "\"negative\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 3849,
       "length": 18,
       "value": "\"greater than '9'\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 3870,
       "length": 15,
       "value": "\"less than '0'\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 3915,
       "length": 33,
       "value": "\"7 -> 8 -> 9 -> 0 -> 1 -> 2 -> 3\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 3951,
       "length": 33,
       "value": "\"7 <- 8 <- 9 <- 0 <- 1 <- 2 <- 3\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 4014,
       "length": 5,
       "value": "\"8+3\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 4022,
       "length": 5,
       "value": "\"2-3\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 4057,
       "length": 3,
       "value": "\"8\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 4063,
       "length": 3,
       "value": "\"2\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 4096,
       "length": 7,
       "value": "\"right\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 4106,
       "length": 6,
       "value": "\"left\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 4142,
       "length": 3,
       "value": "\"1\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "StringLiteral",
       "offset": 4148,
       "length": 3,
       "value": "\"9\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 4482,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 4485,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 4488,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 4491,
       "length": 1,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 4617,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 4620,
       "length": 1,
       "value": "9"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 4623,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 4626,
       "length": 1,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 4783,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 4832,
       "length": 1,
       "value": "9"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 4886,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 4940,
       "length": 1,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "Array",
       "offset": 5105,
       "length": 12,
       "value": "[8, 2, 1, 0]"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "Array",
       "offset": 5161,
       "length": 12,
       "value": "[2, 7, 8, 4]"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/Factory\/InstructionsFactory.swift",
       "kind": "Array",
       "offset": 5215,
       "length": 12,
       "value": "[8, 6, 8, 0]"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/GamePlayView.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/GamePlayView.swift",
       "kind": "IntegerLiteral",
       "offset": 228,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 212,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 248,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 335,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 385,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 633,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 1012,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1978,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2057,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2267,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3152,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3174,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3190,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3194,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3217,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 3223,
-      "length": 3,
-      "value": "0.5"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3250,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3267,
-      "length": 2,
-      "value": "11"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3272,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3295,
-      "length": 1,
-      "value": "6"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 3300,
-      "length": 3,
-      "value": "0.2"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3327,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3345,
-      "length": 2,
-      "value": "21"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3350,
+      "offset": 1889,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2053,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2132,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2342,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3373,
+      "offset": 3227,
       "length": 1,
-      "value": "4"
+      "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 3378,
-      "length": 3,
-      "value": "0.1"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3405,
+      "offset": 3249,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3265,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3269,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3292,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 3298,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3325,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3342,
+      "length": 2,
+      "value": "11"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3347,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3446,
+      "offset": 3370,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 3375,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3402,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3420,
+      "length": 2,
+      "value": "21"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3425,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3448,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 3453,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3480,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3521,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3562,
+      "offset": 3637,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3599,
+      "offset": 3674,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3652,
+      "offset": 3727,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4293,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4397,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4478,
+      "offset": 3796,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4482,
+      "offset": 3821,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4452,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4607,
+      "offset": 4556,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4637,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4641,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4766,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 5586,
+      "offset": 5745,
       "length": 6,
       "value": "\"true\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/ViewModel\/ClassicGameViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 6044,
+      "offset": 6203,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/PlayViewFooter.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/PlayViewFooter.swift",
       "kind": "StringLiteral",
       "offset": 298,
       "length": 17,
       "value": "\"Score: \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/PlayViewFooter.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/PlayViewFooter.swift",
       "kind": "StringLiteral",
       "offset": 314,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/PlayViewFooter.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/PlayViewFooter.swift",
       "kind": "StringLiteral",
       "offset": 338,
       "length": 26,
       "value": "\"High Score: \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/PlayViewFooter.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/PlayViewFooter.swift",
       "kind": "StringLiteral",
       "offset": 363,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/PlayViewFooter.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/PlayViewFooter.swift",
       "kind": "StringLiteral",
       "offset": 418,
       "length": 17,
       "value": "\"Level: \""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/PlayViewFooter.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/PlayViewFooter.swift",
       "kind": "StringLiteral",
       "offset": 434,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/Logic\/NumberItemFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/Logic\/NumberItemFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 257,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/Logic\/NumberItemFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/Logic\/NumberItemFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 448,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/Logic\/NumberItemFactory.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Coordinator\/Logic\/NumberItemFactory.swift",
       "kind": "IntegerLiteral",
       "offset": 809,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/LevelContent.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/LevelContent.swift",
       "kind": "IntegerLiteral",
       "offset": 282,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/LevelContent.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/LevelContent.swift",
       "kind": "IntegerLiteral",
       "offset": 311,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/LevelContent.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/LevelContent.swift",
       "kind": "Array",
       "offset": 346,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/LevelContent.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/Presentation\/LevelContent.swift",
       "kind": "BooleanLiteral",
       "offset": 382,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/derived_data\/Build\/Intermediates.noindex\/iAddThreeClassicKit.build\/Release-iphonesimulator\/iAddThreeClassicKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/derived_data\/Build\/Intermediates.noindex\/iAddThreeClassicKit.build\/Release-iphonesimulator\/iAddThreeClassicKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 826,
       "length": 12,
       "value": "\"blackChalk\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/derived_data\/Build\/Intermediates.noindex\/iAddThreeClassicKit.build\/Release-iphonesimulator\/iAddThreeClassicKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/derived_data\/Build\/Intermediates.noindex\/iAddThreeClassicKit.build\/Release-iphonesimulator\/iAddThreeClassicKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 990,
       "length": 12,
       "value": "\"greenChalk\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/derived_data\/Build\/Intermediates.noindex\/iAddThreeClassicKit.build\/Release-iphonesimulator\/iAddThreeClassicKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/derived_data\/Build\/Intermediates.noindex\/iAddThreeClassicKit.build\/Release-iphonesimulator\/iAddThreeClassicKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1156,
       "length": 13,
       "value": "\"orangeChalk\""
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThreeClassicKit\/derived_data\/Build\/Intermediates.noindex\/iAddThreeClassicKit.build\/Release-iphonesimulator\/iAddThreeClassicKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/derived_data\/Build\/Intermediates.noindex\/iAddThreeClassicKit.build\/Release-iphonesimulator\/iAddThreeClassicKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1317,
       "length": 10,
