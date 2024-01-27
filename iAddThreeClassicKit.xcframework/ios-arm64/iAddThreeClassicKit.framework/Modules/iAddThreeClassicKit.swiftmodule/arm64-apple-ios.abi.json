@@ -4125,41 +4125,6 @@
       "value": "10"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/FinishedGameView.swift",
-      "kind": "StringLiteral",
-      "offset": 1455,
-      "length": 5,
-      "value": "\"Add\""
-    },
-    {
-      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_C0EC54C1898BC12AA6A884971A603763Ll7PreviewfMf_.swift",
-      "kind": "StringLiteral",
-      "offset": 245,
-      "length": 44,
-      "value": "\"iAddThreeClassicKit\/FinishedGameView.swift\""
-    },
-    {
-      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_C0EC54C1898BC12AA6A884971A603763Ll7PreviewfMf_.swift",
-      "kind": "IntegerLiteral",
-      "offset": 317,
-      "length": 2,
-      "value": "52"
-    },
-    {
-      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_C0EC54C1898BC12AA6A884971A603763Ll7PreviewfMf_.swift",
-      "kind": "IntegerLiteral",
-      "offset": 349,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_C0EC54C1898BC12AA6A884971A603763Ll7PreviewfMf_.swift",
-      "kind": "StringLiteral",
-      "offset": 504,
-      "length": 5,
-      "value": "\"Add\""
-    },
-    {
       "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/Instructions\/UI\/InstructionsView.swift",
       "kind": "IntegerLiteral",
       "offset": 168,
@@ -4244,30 +4209,30 @@
       "value": "\"Add\""
     },
     {
-      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_A3F80E53A5662F4DF7521E4390C9CAD3Ll7PreviewfMf0_.swift",
+      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_A3F80E53A5662F4DF7521E4390C9CAD3Ll7PreviewfMf_.swift",
       "kind": "StringLiteral",
-      "offset": 246,
+      "offset": 245,
       "length": 55,
       "value": "\"iAddThreeClassicKit\/LevelResultsCoordinatorView.swift\""
     },
     {
-      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_A3F80E53A5662F4DF7521E4390C9CAD3Ll7PreviewfMf0_.swift",
+      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_A3F80E53A5662F4DF7521E4390C9CAD3Ll7PreviewfMf_.swift",
       "kind": "IntegerLiteral",
-      "offset": 329,
+      "offset": 328,
       "length": 2,
       "value": "27"
     },
     {
-      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_A3F80E53A5662F4DF7521E4390C9CAD3Ll7PreviewfMf0_.swift",
+      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_A3F80E53A5662F4DF7521E4390C9CAD3Ll7PreviewfMf_.swift",
       "kind": "IntegerLiteral",
-      "offset": 361,
+      "offset": 360,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_A3F80E53A5662F4DF7521E4390C9CAD3Ll7PreviewfMf0_.swift",
+      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_A3F80E53A5662F4DF7521E4390C9CAD3Ll7PreviewfMf_.swift",
       "kind": "StringLiteral",
-      "offset": 527,
+      "offset": 526,
       "length": 5,
       "value": "\"Add\""
     },
