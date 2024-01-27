@@ -37,34 +37,6 @@ iAddThreeClassicKitXCFramework is a Swift package designed to enhance iOS develo
 The framework is available as an XCFramework. You can add it to your project by downloading it from this GitHub repository and including it in your Xcode project.
 
 
-Additionally, you can use The Swift Package Manager to install `iAddThreeClassicKitXCFramework` by adding it to your `Package.swift` file:
-
-```swift
-import PackageDescription
-
-let package = Package(
-    name: "YourProject",
-    dependencies: [
-        .package(
-            name: "iAddThreeClassicKitXCFramework",
-            url: "https://github.com/nikolainobadi/iAddThreeClassicKitXCFramework.git",
-            .exact("0.9.0")
-        )
-    ],
-    targets: [
-        .target(
-            name: "YourTarget",
-            dependencies: ["iAddThreeClassicKitXCFramework"]
-        ),
-        .binaryTarget(
-            name: "iAddThreeClassicKit",
-            url: "https://github.com/nikolainobadi/iAddThreeClassicKitXCFramework/releases/download/v0.9.1/iAddThreeClassicKit.xcframework.zip",
-            checksum: "aaacccb1f42666154ffd0b1f7379c1bffcb5bd2281b5a5833077213256f9990e"
-        )
-    ]
-)
-```
-
 ## Usage
 To use a component, simply import `iAddThreeClassicKitXCFramework` in your SwiftUI view and instantiate the components as per your requirement. For example:
 
