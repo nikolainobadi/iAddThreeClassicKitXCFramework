@@ -4202,41 +4202,6 @@
       "value": "1"
     },
     {
-      "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/LevelResults\/UI\/LevelResultsCoordinatorView.swift",
-      "kind": "StringLiteral",
-      "offset": 613,
-      "length": 5,
-      "value": "\"Add\""
-    },
-    {
-      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_A3F80E53A5662F4DF7521E4390C9CAD3Ll7PreviewfMf_.swift",
-      "kind": "StringLiteral",
-      "offset": 245,
-      "length": 55,
-      "value": "\"iAddThreeClassicKit\/LevelResultsCoordinatorView.swift\""
-    },
-    {
-      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_A3F80E53A5662F4DF7521E4390C9CAD3Ll7PreviewfMf_.swift",
-      "kind": "IntegerLiteral",
-      "offset": 328,
-      "length": 2,
-      "value": "27"
-    },
-    {
-      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_A3F80E53A5662F4DF7521E4390C9CAD3Ll7PreviewfMf_.swift",
-      "kind": "IntegerLiteral",
-      "offset": 360,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "@__swiftmacro_19iAddThreeClassicKit33_A3F80E53A5662F4DF7521E4390C9CAD3Ll7PreviewfMf_.swift",
-      "kind": "StringLiteral",
-      "offset": 526,
-      "length": 5,
-      "value": "\"Add\""
-    },
-    {
       "filePath": "\/Users\/nelix\/Desktop\/iAddThree_CodeGroup\/iAddThreeClassicKit\/iAddThreeClassicKit\/Sources\/Private\/GamePlay\/UI\/NumberListView.swift",
       "kind": "StringLiteral",
       "offset": 390,
